@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+# Jupyter
+.ipynb_checkpoints/
+# Virtual environments
+ga_dsb_env/
+venv/
+.venv/
+env/
+# OS
+.DS_Store
+Thumbs.db
